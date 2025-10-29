@@ -1,0 +1,9 @@
+langchain>=0.2.0
+faiss-cpu
+fastapi
+uvicorn
+streamlit
+python-dotenv
+openai
+requests
+sentence-transformers
