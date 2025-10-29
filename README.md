@@ -24,7 +24,6 @@ Deliver instant, relevant answers, automate ticketing, and deeply integrate with
 
 - Python 3.9+
 - `pip`, `git`
-- [Optional] `pdfminer.six` if using PDFs
 
 ### 2. Setup Project
 
